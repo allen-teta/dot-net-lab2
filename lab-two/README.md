@@ -20,3 +20,6 @@
 
 
 ![Pied bleu result](Mushuroom-type/Mushuroom-type/pie%20de%20bleu.png)
+<img width="427" height="426" alt="WhatsApp Image 2026-11-10 at 16 59 58" src="https://github.com/user-attachments/assets/91f303e6-043e-4fc2-afce-9c8fcdaa98ed" />
+<img width="658" height="544" alt="WhatsApp Image 2026-11-10 at 17 03 14" src="https://github.com/user-attachments/assets/dafaf40e-724d-4b21-8c2e-60638d3e151a" />
+
